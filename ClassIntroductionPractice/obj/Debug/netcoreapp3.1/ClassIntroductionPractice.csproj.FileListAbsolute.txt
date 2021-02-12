@@ -1,0 +1,13 @@
+C:\Users\Esetb\source\repos\ClassIntroductionPractice\ClassIntroductionPractice\bin\Debug\netcoreapp3.1\ClassIntroductionPractice.exe
+C:\Users\Esetb\source\repos\ClassIntroductionPractice\ClassIntroductionPractice\bin\Debug\netcoreapp3.1\ClassIntroductionPractice.deps.json
+C:\Users\Esetb\source\repos\ClassIntroductionPractice\ClassIntroductionPractice\bin\Debug\netcoreapp3.1\ClassIntroductionPractice.runtimeconfig.json
+C:\Users\Esetb\source\repos\ClassIntroductionPractice\ClassIntroductionPractice\bin\Debug\netcoreapp3.1\ClassIntroductionPractice.runtimeconfig.dev.json
+C:\Users\Esetb\source\repos\ClassIntroductionPractice\ClassIntroductionPractice\bin\Debug\netcoreapp3.1\ClassIntroductionPractice.dll
+C:\Users\Esetb\source\repos\ClassIntroductionPractice\ClassIntroductionPractice\bin\Debug\netcoreapp3.1\ClassIntroductionPractice.pdb
+C:\Users\Esetb\source\repos\ClassIntroductionPractice\ClassIntroductionPractice\obj\Debug\netcoreapp3.1\ClassIntroductionPractice.csprojAssemblyReference.cache
+C:\Users\Esetb\source\repos\ClassIntroductionPractice\ClassIntroductionPractice\obj\Debug\netcoreapp3.1\ClassIntroductionPractice.AssemblyInfoInputs.cache
+C:\Users\Esetb\source\repos\ClassIntroductionPractice\ClassIntroductionPractice\obj\Debug\netcoreapp3.1\ClassIntroductionPractice.AssemblyInfo.cs
+C:\Users\Esetb\source\repos\ClassIntroductionPractice\ClassIntroductionPractice\obj\Debug\netcoreapp3.1\ClassIntroductionPractice.csproj.CoreCompileInputs.cache
+C:\Users\Esetb\source\repos\ClassIntroductionPractice\ClassIntroductionPractice\obj\Debug\netcoreapp3.1\ClassIntroductionPractice.dll
+C:\Users\Esetb\source\repos\ClassIntroductionPractice\ClassIntroductionPractice\obj\Debug\netcoreapp3.1\ClassIntroductionPractice.pdb
+C:\Users\Esetb\source\repos\ClassIntroductionPractice\ClassIntroductionPractice\obj\Debug\netcoreapp3.1\ClassIntroductionPractice.genruntimeconfig.cache
