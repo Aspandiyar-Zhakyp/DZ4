@@ -1,0 +1,4 @@
+C:\Users\Esetb\source\repos\ClassIntroductionHW\ClassIntroductionHW\obj\Debug\netcoreapp3.1\ClassIntroductionHW.csprojAssemblyReference.cache
+C:\Users\Esetb\source\repos\ClassIntroductionHW\ClassIntroductionHW\obj\Debug\netcoreapp3.1\ClassIntroductionHW.AssemblyInfoInputs.cache
+C:\Users\Esetb\source\repos\ClassIntroductionHW\ClassIntroductionHW\obj\Debug\netcoreapp3.1\ClassIntroductionHW.AssemblyInfo.cs
+C:\Users\Esetb\source\repos\ClassIntroductionHW\ClassIntroductionHW\obj\Debug\netcoreapp3.1\ClassIntroductionHW.csproj.CoreCompileInputs.cache
